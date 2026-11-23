@@ -1,0 +1,33 @@
+h1{
+  color:  purple;
+  font-family:verdana;
+}
+h2{
+  font-family: courier;
+}
+.bold{
+  font-size:110%
+}
+#intro{
+  color: green;
+}
+.image-box{
+  
+}
+.image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.image-box img {
+  width: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.images-list{
+  display:flex;
+  justify-content:center;
+}
